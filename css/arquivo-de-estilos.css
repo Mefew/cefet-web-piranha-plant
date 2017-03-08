@@ -1,0 +1,61 @@
+body {
+	background-image: url("../imagens/fundo.png");
+}
+
+h1 {
+	font-size: 28px;
+	font-family: "Times New Roman";
+	color: limegreen;
+}
+
+h2 {
+	font-size: 24px;
+	font-family: "Times New Roman";
+	color: limegreen;	
+}
+
+p {
+	font-family: "Arial";
+	text-align: justify;
+}
+
+img {	
+	border: 4px solid;
+	color: limegreen;
+}
+
+table {
+	border-collapse: collapse;
+	text-align: center;
+	font-family: "Arial";
+	width: 600px;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+td, th{
+	border: 2px solid silver;
+	text-align: center;
+}
+
+p#paragraph-table1 {
+	text-align: center;
+	/*font-family: "Times New Roman";*/
+	line-height: 10%;
+	margin-top: 10px;
+}
+
+p#paragraph-table2 {
+	text-align: center;
+	/*font-family: "Times New Roman";*/
+	line-height: 10%;
+	margin-bottom: 10px;
+}
+
+blockquote {
+	font-style: italic;
+}
+
+q {
+	font-style: italic;
+}
